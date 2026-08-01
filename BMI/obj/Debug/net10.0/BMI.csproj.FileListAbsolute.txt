@@ -1,0 +1,14 @@
+C:\Users\ayush\Desktop\Capgemini\BMI\bin\Debug\net10.0\BMI.exe
+C:\Users\ayush\Desktop\Capgemini\BMI\bin\Debug\net10.0\BMI.deps.json
+C:\Users\ayush\Desktop\Capgemini\BMI\bin\Debug\net10.0\BMI.runtimeconfig.json
+C:\Users\ayush\Desktop\Capgemini\BMI\bin\Debug\net10.0\BMI.dll
+C:\Users\ayush\Desktop\Capgemini\BMI\bin\Debug\net10.0\BMI.pdb
+C:\Users\ayush\Desktop\Capgemini\BMI\obj\Debug\net10.0\BMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayush\Desktop\Capgemini\BMI\obj\Debug\net10.0\BMI.AssemblyInfoInputs.cache
+C:\Users\ayush\Desktop\Capgemini\BMI\obj\Debug\net10.0\BMI.AssemblyInfo.cs
+C:\Users\ayush\Desktop\Capgemini\BMI\obj\Debug\net10.0\BMI.csproj.CoreCompileInputs.cache
+C:\Users\ayush\Desktop\Capgemini\BMI\obj\Debug\net10.0\BMI.dll
+C:\Users\ayush\Desktop\Capgemini\BMI\obj\Debug\net10.0\refint\BMI.dll
+C:\Users\ayush\Desktop\Capgemini\BMI\obj\Debug\net10.0\BMI.pdb
+C:\Users\ayush\Desktop\Capgemini\BMI\obj\Debug\net10.0\BMI.genruntimeconfig.cache
+C:\Users\ayush\Desktop\Capgemini\BMI\obj\Debug\net10.0\ref\BMI.dll

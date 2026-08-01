@@ -1,0 +1,14 @@
+C:\Users\ayush\Desktop\Capgemini\RetailStoreBilling\bin\Debug\net10.0\RetailStoreBilling.exe
+C:\Users\ayush\Desktop\Capgemini\RetailStoreBilling\bin\Debug\net10.0\RetailStoreBilling.deps.json
+C:\Users\ayush\Desktop\Capgemini\RetailStoreBilling\bin\Debug\net10.0\RetailStoreBilling.runtimeconfig.json
+C:\Users\ayush\Desktop\Capgemini\RetailStoreBilling\bin\Debug\net10.0\RetailStoreBilling.dll
+C:\Users\ayush\Desktop\Capgemini\RetailStoreBilling\bin\Debug\net10.0\RetailStoreBilling.pdb
+C:\Users\ayush\Desktop\Capgemini\RetailStoreBilling\obj\Debug\net10.0\RetailStoreBilling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayush\Desktop\Capgemini\RetailStoreBilling\obj\Debug\net10.0\RetailStoreBilling.AssemblyInfoInputs.cache
+C:\Users\ayush\Desktop\Capgemini\RetailStoreBilling\obj\Debug\net10.0\RetailStoreBilling.AssemblyInfo.cs
+C:\Users\ayush\Desktop\Capgemini\RetailStoreBilling\obj\Debug\net10.0\RetailStoreBilling.csproj.CoreCompileInputs.cache
+C:\Users\ayush\Desktop\Capgemini\RetailStoreBilling\obj\Debug\net10.0\RetailStoreBilling.dll
+C:\Users\ayush\Desktop\Capgemini\RetailStoreBilling\obj\Debug\net10.0\refint\RetailStoreBilling.dll
+C:\Users\ayush\Desktop\Capgemini\RetailStoreBilling\obj\Debug\net10.0\RetailStoreBilling.pdb
+C:\Users\ayush\Desktop\Capgemini\RetailStoreBilling\obj\Debug\net10.0\RetailStoreBilling.genruntimeconfig.cache
+C:\Users\ayush\Desktop\Capgemini\RetailStoreBilling\obj\Debug\net10.0\ref\RetailStoreBilling.dll

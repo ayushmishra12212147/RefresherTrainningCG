@@ -1,0 +1,14 @@
+C:\Users\ayush\Desktop\Capgemini\volume\bin\Debug\net10.0\volume.exe
+C:\Users\ayush\Desktop\Capgemini\volume\bin\Debug\net10.0\volume.deps.json
+C:\Users\ayush\Desktop\Capgemini\volume\bin\Debug\net10.0\volume.runtimeconfig.json
+C:\Users\ayush\Desktop\Capgemini\volume\bin\Debug\net10.0\volume.dll
+C:\Users\ayush\Desktop\Capgemini\volume\bin\Debug\net10.0\volume.pdb
+C:\Users\ayush\Desktop\Capgemini\volume\obj\Debug\net10.0\volume.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayush\Desktop\Capgemini\volume\obj\Debug\net10.0\volume.AssemblyInfoInputs.cache
+C:\Users\ayush\Desktop\Capgemini\volume\obj\Debug\net10.0\volume.AssemblyInfo.cs
+C:\Users\ayush\Desktop\Capgemini\volume\obj\Debug\net10.0\volume.csproj.CoreCompileInputs.cache
+C:\Users\ayush\Desktop\Capgemini\volume\obj\Debug\net10.0\volume.dll
+C:\Users\ayush\Desktop\Capgemini\volume\obj\Debug\net10.0\refint\volume.dll
+C:\Users\ayush\Desktop\Capgemini\volume\obj\Debug\net10.0\volume.pdb
+C:\Users\ayush\Desktop\Capgemini\volume\obj\Debug\net10.0\volume.genruntimeconfig.cache
+C:\Users\ayush\Desktop\Capgemini\volume\obj\Debug\net10.0\ref\volume.dll
