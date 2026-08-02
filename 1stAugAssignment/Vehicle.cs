@@ -34,11 +34,11 @@ class ParkingVehicle
             fee = fee * 0.90;
         }
 
-        Console.WriteLine("Vehicle: " + VehicleName);
-        Console.WriteLine("Parking Duration: " + Hours.ToString("F2") + " hours");
-        Console.WriteLine("Hourly Rate: $" + HourlyRate.ToString("F2"));
-        Console.WriteLine("Daily Maximum: $" + DailyMaximum.ToString("F2"));
-        Console.WriteLine("Total Fee: $" + fee.ToString("F2"));
+        Console.WriteLine("Vehicle:" + VehicleName);
+        Console.WriteLine("Parking Duration:" + Hours.ToString("F2") + " hours");
+        Console.WriteLine("Hourly Rate: " + HourlyRate.ToString("F2"));
+        Console.WriteLine("Daily Maximum: " + DailyMaximum.ToString("F2"));
+        Console.WriteLine("Total Fee: " + fee.ToString("F2"));
     }
 }
 
