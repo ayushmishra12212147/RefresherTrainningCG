@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ayush\\Desktop\\Capgemini\\BankBalanceCalculator\\BankBalanceCalculator.csproj": {}
+    "c:\\Users\\ayush\\Desktop\\Capgemini\\BookOrderProcessor\\BookOrderProcessor.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ayush\\Desktop\\Capgemini\\BankBalanceCalculator\\BankBalanceCalculator.csproj": {
+    "c:\\Users\\ayush\\Desktop\\Capgemini\\BookOrderProcessor\\BookOrderProcessor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ayush\\Desktop\\Capgemini\\BankBalanceCalculator\\BankBalanceCalculator.csproj",
-        "projectName": "BankBalanceCalculator",
-        "projectPath": "c:\\Users\\ayush\\Desktop\\Capgemini\\BankBalanceCalculator\\BankBalanceCalculator.csproj",
+        "projectUniqueName": "c:\\Users\\ayush\\Desktop\\Capgemini\\BookOrderProcessor\\BookOrderProcessor.csproj",
+        "projectName": "BookOrderProcessor",
+        "projectPath": "c:\\Users\\ayush\\Desktop\\Capgemini\\BookOrderProcessor\\BookOrderProcessor.csproj",
         "packagesPath": "C:\\Users\\ayush\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ayush\\Desktop\\Capgemini\\BankBalanceCalculator\\obj\\",
+        "outputPath": "c:\\Users\\ayush\\Desktop\\Capgemini\\BookOrderProcessor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
