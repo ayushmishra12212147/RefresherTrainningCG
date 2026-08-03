@@ -8,6 +8,7 @@ namespace TopBrains
             int input=Convert.ToInt32(Console.ReadLine());
             double result=input*30.48;
             Console.WriteLine($"{result:.2f}");
+            Console.WriteLine();
         }
     }
 }
